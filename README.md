@@ -1,104 +1,73 @@
-# 👋 Hey, I'm NotKoda_!
+# 👋 Hey, I'm NotKoda\_!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Minecraft+Developer+%7C+Java;AI+%26+LLM+Integration;Discord+Bot+Developer;Founder+of+Cubelys" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Minecraft+Plugin+Developer;Java+%26+Custom+APIs;AI+%26+Self-Hosted+LLMs;Discord+Bots+%26+Automation;Founder+of+Cubelys" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/18%20years%20old-18181B?style=for-the-badge" alt="Age" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI and LLMs" />
+  <img src="https://img.shields.io/badge/Minecraft-Developer-2EA043?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Developer" />
+  <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer" />
+  <img src="https://img.shields.io/badge/AI-Integration-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration" />
+  <img src="https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots" />
 </p>
+
+<p align="center">
+  <b>Building custom Minecraft experiences, AI-powered tools and connected services.</b>
+</p>
+
+---
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **NotKoda_**, an 18-year-old developer focused on Minecraft plugin development, artificial intelligence and Discord bots.
+Hey! I'm **NotKoda_**, a developer passionate about Minecraft server development, artificial intelligence and backend engineering.
 
-I enjoy building custom systems, automating workflows and integrating AI into real-world applications.
+I build custom software, reusable APIs, automation tools and integrations designed to power real-world projects.
 
-- ☕ **Minecraft Development** — Custom Java plugins and gameplay systems.
-- 🤖 **Artificial Intelligence** — Working with self-hosted LLMs and AI-powered applications.
-- 🧠 **AI Integration** — Bringing LLM capabilities directly into Minecraft plugins and Discord bots.
-- 💬 **Discord Development** — Bots, automation and community management tools.
-- 🚀 **Entrepreneurship** — Founder of **Cubelys**, a group focused on Minecraft servers.
+- ☕ **Minecraft Development** — Custom Java plugins, gameplay systems and server APIs.
+- 🤖 **Artificial Intelligence** — Self-hosted LLMs, AI-powered applications and intelligent assistants.
+- 💬 **Discord Development** — Community bots, automated workflows and AI-powered conversations.
+- 💳 **Payment Integrations** — Stripe-powered payment systems and backend integrations.
+- ⚙️ **Backend & Infrastructure** — Databases, Linux servers, APIs and deployment workflows.
+- 🚀 **Entrepreneurship** — Founder of **Cubelys**, an ecosystem focused on Minecraft servers and custom development.
 
-## 🛠️ Technologies & Tools
+I enjoy working across the entire stack, from designing backend systems to integrating them into Minecraft servers, Discord communities and external services.
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,gradle,git,github,linux,docker,idea,vscode,python,js,nodejs,mysql,redis&perline=7" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=java,maven,gradle,python,js,nodejs,html,css,mysql,redis,linux,docker,git,github,idea,vscode&perline=8" alt="Technologies and tools" />
 </p>
 
 ### 💻 Development
-
-- Java
-- Minecraft server plugin development
-- Custom APIs and reusable systems
+- Java and Minecraft plugin development
+- Custom APIs, modular architectures and reusable systems
+- Backend development and REST API integrations
 - Discord bots and automation
 - SQL databases and Redis
 
-### 🤖 Artificial Intelligence
+### 🤖 AI & LLM Engineering
+- Self-hosted Large Language Models
+- LLM API integrations
+- AI-powered Discord bots and assistants
+- AI features integrated into Minecraft plugins
+- Automated workflows and intelligent tools
 
-- Self-hosted Large Language Models (LLMs)
-- AI-powered Minecraft plugin features
-- LLM integration in Discord bots
-- API-based AI integrations
-- Automation and intelligent assistants
+### 💳 Payments & Integrations
+- Stripe API integration
+- Payment processing workflows
+- Backend integrations and service communication
+- Automated business workflows
 
-### ⚙️ Infrastructure
-
+### 🖥️ Infrastructure & DevOps
 - Linux server administration
 - Minecraft server infrastructure
 - Docker and deployment workflows
 - Database management
-
-## 🏢 Cubelys
-
-I'm the **founder of Cubelys**, a group dedicated to creating and operating Minecraft servers.
-
-Our goal is to build unique gameplay experiences backed by custom development and our own technical infrastructure.
-
-### 🦊 Vulpine
-
-**Survival Minecraft Server**
-
-Vulpine is a survival server focused on creating an engaging multiplayer experience, with custom gameplay systems and a growing community.
-
-🌐 Website: [vulpinemc.fr](https://vulpinemc.fr)
-
-### 🎣 Rivalys
-
-**Fishing-Oriented Survival Server**
-
-Rivalys is an upcoming survival project built around fishing, with a distinct gameplay direction and custom features.
-
-🚧 **Currently in development — coming soon!**
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NotKodaDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotKodaDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NotKodaDev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://github.com/NotKodaDev">
-    <img src="https://img.shields.io/badge/GitHub-NotKoda_-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-%40notkodaa__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-💬 **Discord:** `@notkodaa_`
+- Performance monitoring and troubleshooting
 
 ---
 
+## 🏢 Cubelys — Minecraft & Software
+
 <p align="center">
-  <i>Building custom Minecraft experiences, integrating AI and turning ideas into code.</i>
-</p>
+  <img src="https://img.shields.io/badge/CUBELYS-Minecraft%20%26%20Development-7
