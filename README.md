@@ -1,209 +1,327 @@
 # 👋 Salut, moi c'est NotKoda_ !
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Minecraft+%7C+Java;Intelligence+artificielle+%26+LLM;Plugins+%26+API+personnalis%C3%A9es;Bots+Discord+%26+automatisation;Fondateur+de+Cubelys" alt="Animation de présentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=800&height=50&lines=D%C3%A9veloppeur+Minecraft+%E2%9A%92%EF%B8%8F;Cr%C3%A9ateur+de+plugins+Java+%F0%9F%9A%80;Passionn%C3%A9+d%27IA+%26+de+LLM+%F0%9F%A4%96;Bots+Discord+%26+automatisation+%F0%9F%92%AC;Fondateur+de+Cubelys+%F0%9F%A6%8A" alt="Présentation animée" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-D%C3%A9veloppement-2EA043?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
-  <img src="https://img.shields.io/badge/Java-D%C3%A9veloppement-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/IA-Intelligence%20artificielle-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Intelligence artificielle" />
-  <img src="https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/18%20ans-18181B?style=for-the-badge&logo=github&logoColor=white" alt="18 ans" />
+  <img src="https://img.shields.io/badge/Minecraft-D%C3%A9veloppement-2EA043?style=for-the-badge&logo=minecraft&logoColor=white" alt="Développement Minecraft" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Intelligence%20artificielle-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Intelligence artificielle" />
 </p>
 
 <p align="center">
-  <b>Je développe des plugins Minecraft, des outils intelligents et des solutions sur mesure.</b>
+  <a href="https://github.com/NotKodaDev">
+    <img src="https://img.shields.io/badge/GitHub-NotKoda__-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://vulpinemc.fr">
+    <img src="https://img.shields.io/badge/Projet-Vulpine-2EA043?style=flat-square&logo=minecraft&logoColor=white" alt="Vulpine" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Plugins%20%7C%20IA%20%7C%20Backend-F97316?style=flat-square" alt="Domaines de développement" />
+</p>
+
+<p align="center">
+  <i>Je transforme des idées en projets concrets, du plugin Minecraft à l'intégration d'intelligence artificielle.</i>
 </p>
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🧬 Qui suis-je ?
 
-Salut ! Moi, c'est **NotKoda_**, développeur passionné par Minecraft, l'intelligence artificielle et le développement logiciel.
+Moi, c'est **NotKoda_**, développeur passionné par Minecraft, l'intelligence artificielle et la création de systèmes personnalisés.
 
-J'aime concevoir mes propres systèmes, automatiser des tâches et connecter différentes technologies pour créer des solutions concrètes.
+Je développe mes propres plugins, API, bots Discord et outils pour construire un écosystème technique cohérent autour de mes projets.
 
-- ☕ **Développement Minecraft** — Plugins Java, mécaniques de jeu et API personnalisées.
-- 🤖 **Intelligence artificielle** — LLM auto-hébergés, assistants intelligents et intégrations d'IA.
-- 💬 **Développement Discord** — Bots, automatisations et assistants conversationnels.
-- 💳 **Paiements en ligne** — Intégrations Stripe et automatisation des processus de paiement.
-- ⚙️ **Backend & infrastructure** — API, bases de données, serveurs Linux et déploiement.
-- 🚀 **Entrepreneuriat** — Fondateur de **Cubelys**, un groupe dédié aux serveurs Minecraft et à leur développement technique.
+```text
+┌─────────────────────────────────────────────────────┐
+│  NOTKODA_                                           │
+│                                                     │
+│  ⚒️  Minecraft       Plugins Java & API             │
+│  🤖  Intelligence IA LLM auto-hébergés & assistants │
+│  💬  Discord         Bots & automatisation          │
+│  💳  Paiements       Intégrations Stripe            │
+│  🖥️  Infrastructure  Linux, bases de données & API  │
+│  🦊  Entrepreneuriat Fondateur de Cubelys            │
+└─────────────────────────────────────────────────────┘
+```
 
-Je m'intéresse autant à la conception des systèmes qu'à leur mise en production : du code jusqu'à l'infrastructure qui le fait fonctionner.
+- ☕ **Java** — Plugins Minecraft, systèmes de gameplay et architectures modulaires.
+- 🧠 **IA & LLM** — Intégration de modèles de langage dans des applications concrètes.
+- 💬 **Discord** — Bots, automatisation et assistants conversationnels.
+- 💳 **Stripe** — Intégrations de paiement et communication entre services.
+- 🛠️ **Backend** — API, bases de données et services connectés.
+- 🚀 **Projets** — Conception, développement et exploitation de mes propres services.
 
 ## 🛠️ Technologies & outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,gradle,python,js,nodejs,html,css,mysql,redis,linux,docker,git,github,idea,vscode&perline=8" alt="Technologies et outils utilisés" />
+  <img src="https://skillicons.dev/icons?i=java,maven,gradle,python,js,nodejs,html,css,mysql,redis,linux,docker,git,github,idea,vscode&perline=8" alt="Technologies utilisées" />
 </p>
 
-### 💻 Développement
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- Java et développement de plugins Minecraft
-- Conception d'API et de systèmes modulaires
-- Développement backend et intégrations REST
-- Bots Discord et automatisation
-- Bases de données SQL et Redis
+### ☕ Développement
+
+- Java
+- Plugins Minecraft
+- API personnalisées
+- Architecture modulaire
+- Intégrations REST
+- Bots Discord
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🤖 Intelligence artificielle
 
-- Modèles de langage (LLM) auto-hébergés
-- Intégration de modèles via API
-- Assistants IA pour Discord
-- Fonctionnalités intelligentes intégrées aux plugins Minecraft
-- Automatisation et agents intelligents
+- LLM auto-hébergés
+- API de modèles de langage
+- Assistants IA
+- Intégrations dans Discord
+- Fonctionnalités IA dans les plugins
+- Automatisation intelligente
 
-### 💳 Paiements & intégrations
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-- Intégration de l'API Stripe
-- Gestion des flux de paiement
+### 💳 Paiements & services
+
+- API Stripe
+- Intégrations backend
 - Communication entre services
-- Automatisation des processus métier
+- Automatisation des paiements
 
-### 🖥️ Infrastructure & administration
+    </td>
+    <td width="50%" valign="top">
 
-- Administration de serveurs Linux
-- Hébergement et gestion de serveurs Minecraft
-- Docker et déploiement
-- Gestion de bases de données
-- Optimisation et diagnostic des performances
+### 🖥️ Infrastructure
+
+- Linux
+- Docker
+- MySQL / MariaDB
+- Redis
+- Hébergement Minecraft
+- Administration de serveurs
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏢 Cubelys — Mon écosystème Minecraft
+# 🏢 CUBELYS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CUBELYS-Minecraft%20%26%20D%C3%A9veloppement-7C3AED?style=for-the-badge" alt="Cubelys" />
+  <img src="https://img.shields.io/badge/CUBELYS-Notre%20%C3%A9cosyst%C3%A8me-7C3AED?style=for-the-badge" alt="Cubelys" />
 </p>
 
-Je suis le **fondateur de Cubelys**, un groupe consacré à la création et à l'exploitation de serveurs Minecraft, avec des développements personnalisés pour construire notre propre écosystème technique.
+**Cubelys**, c'est mon groupe dédié aux serveurs Minecraft et au développement des technologies qui les font fonctionner.
 
-L'objectif : proposer des expériences de jeu originales grâce à nos propres plugins, outils, API, bots et intégrations.
+L'idée : développer nos propres systèmes plutôt que dépendre uniquement de solutions toutes faites. Plugins, API, bots, outils et intégrations sont conçus pour former un écosystème cohérent.
 
-### 🦊 Vulpine
+## 🦊 Vulpine
 
-**Serveur Minecraft Survie Semi-RP**
+<p align="center">
+  <a href="https://vulpinemc.fr">
+    <img src="https://img.shields.io/badge/VULPINE-Serveur%20Minecraft-2EA043?style=for-the-badge&logo=minecraft&logoColor=white" alt="Vulpine" />
+  </a>
+</p>
 
-Vulpine est un serveur de survie qui met l'accent sur la progression, l'économie, les fonctionnalités personnalisées et une ambiance inspirée de la nature.
+**Survie Semi-RP • Nature • Progression**
 
-- Systèmes de gameplay développés sur mesure
-- Économie et progression en jeu
-- Événements et contenus saisonniers
-- Infrastructure dédiée et plugins personnalisés
+Vulpine est un serveur Minecraft orienté survie, avec des fonctionnalités personnalisées, une économie et un univers inspiré de la nature.
 
-🌐 **Site web :** [vulpinemc.fr](https://vulpinemc.fr)
+- 🌿 Gameplay et systèmes personnalisés
+- 🪙 Économie et progression
+- 🏆 Événements et contenus saisonniers
+- 🧩 Plugins développés pour le serveur
+- ⚙️ Infrastructure et outils dédiés
 
-### 🎣 Rivalys
+<p align="center">
+  <a href="https://vulpinemc.fr">
+    <img src="https://img.shields.io/badge/Visiter%20le%20site-vulpinemc.fr-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visiter Vulpine" />
+  </a>
+</p>
 
-**Serveur Minecraft orienté pêche**
+## 🎣 Rivalys
 
-Rivalys est un projet de survie en développement, imaginé autour de la pêche et d'une progression spécifique.
+**Survie Minecraft orientée pêche**
 
-- Identité et gameplay propres
-- Développement de plugins dédiés
-- Fonctionnalités personnalisées
-- Intégration à l'écosystème technique de Cubelys
+Rivalys est un projet en développement qui explore une autre approche de la survie, centrée sur la pêche et ses mécaniques de progression.
 
-🚧 **Projet actuellement en développement.**
+- 🎣 Identité de gameplay spécifique
+- ⚒️ Plugins et fonctionnalités dédiés
+- 🧩 Intégration à l'écosystème Cubelys
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Statut-En%20d%C3%A9veloppement-F97316?style=for-the-badge" alt="En développement" />
+</p>
 
 ---
 
-## 🧩 Mes projets
+# 🧩 Mes projets techniques
 
-Je développe des outils et des systèmes qui vont au-delà des simples plugins Minecraft : l'objectif est de créer des composants réutilisables capables de communiquer entre eux.
+<p align="center">
+  <i>Des outils personnalisés pour Minecraft, Discord, les paiements et l'intelligence artificielle.</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🧱 AllayCore
 
-**Le cœur technique de mes plugins Minecraft.**
+**Le cœur de mon écosystème Minecraft.**
 
-AllayCore constitue la base commune de mon écosystème de plugins personnalisés.
+La base commune de mes plugins personnalisés.
 
-- API et fonctionnalités partagées
-- Composants réutilisables entre plugins
-- Systèmes communs aux serveurs
-- Architecture conçue pour faciliter les extensions
-- Intégration des fonctionnalités de l'écosystème Allay
+- API partagée
+- Systèmes réutilisables
+- Fonctionnalités communes
+- Intégration entre plugins
+- Architecture extensible
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🧰 AllayTools
 
-**Des outils personnalisés pour les serveurs Minecraft.**
+**Des outils pour mes serveurs.**
 
-Un projet consacré aux utilitaires et aux fonctionnalités destinés à simplifier la gestion et l'exploitation de mes serveurs.
+Un projet d'utilitaires et de fonctionnalités destinés à faciliter l'exploitation de mon infrastructure Minecraft.
 
-- Outils adaptés à mes besoins
-- Fonctionnalités complémentaires aux plugins existants
-- Développement orienté vers la simplicité d'utilisation
+- Outils personnalisés
+- Fonctionnalités complémentaires
+- Adaptation à mes besoins
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 💳 AllayCheckout
 
-**L'intégration des paiements Stripe.**
+**Paiements & intégration Stripe.**
 
-Un projet visant à connecter les paiements en ligne aux services de mon écosystème.
+Un projet qui relie les paiements en ligne aux services de mon écosystème.
 
-- Intégration de l'API Stripe
-- Communication entre services
-- Automatisation des processus de paiement
-- Connexion avec les services concernés
+- Intégration Stripe
+- Flux de paiement
+- Communication backend
+- Automatisation des traitements
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🤖 Cuby AI
 
-**Un assistant IA directement sur Discord.**
+**L'intelligence artificielle sur Discord.**
 
-Cuby AI est un bot Discord capable de répondre aux questions des utilisateurs grâce à des modèles de langage (LLM).
+Un bot Discord qui utilise des modèles de langage pour répondre aux questions des utilisateurs.
 
-- Réponses générées par intelligence artificielle
-- Intégration de modèles de langage via API
-- Assistance conversationnelle directement sur Discord
-- Possibilité d'adapter les réponses au contexte des projets
-- Une base pour développer de nouvelles fonctionnalités intelligentes
+- Réponses générées par IA
+- Connexion aux LLM via API
+- Assistance conversationnelle
+- Possibilités d'évolution vers une connaissance contextualisée des projets
+
+    </td>
+  </tr>
+</table>
 
 ### 🔌 Plugins Minecraft personnalisés
 
-Je développe également des plugins dédiés aux besoins de mes serveurs et de mon écosystème.
+Je développe également des fonctionnalités adaptées aux besoins de mes serveurs :
 
-- Économie et progression
-- Métiers et systèmes de quêtes
-- Guildes et revendications de terrain
-- Battle Pass et récompenses
-- Interfaces graphiques personnalisées
-- API et intégrations entre plugins
-- Fonctionnalités spécifiques au gameplay
-
-*Les fonctionnalités évoluent au fil du développement des projets.*
+- 🪙 Économie et progression
+- ⚒️ Métiers et quêtes
+- 🛡️ Guildes et revendications
+- 🎟️ Battle Pass et récompenses
+- 🖥️ Interfaces graphiques personnalisées
+- 🔗 Intégrations entre plugins
+- 🧩 API et systèmes réutilisables
 
 ---
 
-## 🧠 Intelligence artificielle & LLM
+# 🧠 IA & LLM
 
-L'intelligence artificielle occupe une place importante dans mes expérimentations et dans les outils que je développe.
+L'intelligence artificielle est un axe important de mes expérimentations.
 
-Je m'intéresse particulièrement aux **LLM auto-hébergés** et à leur intégration dans des applications existantes.
+Je m'intéresse aux modèles de langage **auto-hébergés**, à leur utilisation via API et à leur intégration dans les outils du quotidien.
 
-Mes domaines d'exploration :
+```text
+LLM auto-hébergé
+       │
+       ▼
+  API d'inférence
+       │
+       ├────────► Cuby AI ─────────► Discord
+       │
+       ├────────► Applications
+       │
+       └────────► Fonctionnalités IA personnalisées
+```
 
-- Hébergement et utilisation de modèles de langage
-- Connexion à des points d'accès d'inférence
-- Assistants IA intégrés aux bots Discord
-- Intégration de fonctionnalités IA dans les plugins Minecraft
-- Automatisation de tâches et de processus
-- Connexion des modèles à des API et services externes
+Mes centres d'intérêt :
 
-Mon objectif est de rendre l'IA réellement utile, directement intégrée aux outils et aux services que j'utilise.
+- 🧠 Utilisation de modèles de langage
+- 🔌 Connexion à des endpoints d'inférence
+- 💬 Assistants conversationnels
+- ⚒️ IA intégrée aux plugins Minecraft
+- ⚙️ Automatisation et agents intelligents
+- 🔗 Connexion des modèles à des API externes
+
+**Mon objectif :** faire de l'IA un composant utile de véritables applications, et pas uniquement un chatbot isolé.
 
 ---
 
-## 📊 Statistiques GitHub
+# 📊 Mon activité GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NotKodaDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=fr" alt="Statistiques GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotKodaDev&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Langages les plus utilisés" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NotKodaDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophées GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NotKodaDev&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NotKodaDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Statistiques GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotKodaDev&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=NotKodaDev&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NotKodaDev&theme=tokyo-night&hide_border=true&area=true&custom_title=Mon%20activit%C3%A9%20GitHub" alt="Graphique d'activité GitHub" />
 </p>
 
 ---
 
-## 📫 Me retrouver
+# 📫 Me retrouver
+
+<p align="center">
+  <a href="https://github.com/NotKodaDev">
+    <img src="https://img.shields.io/badge/GitHub-NotKoda__-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-@notkodaa__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://vulpinemc.fr">
+    <img src="https://img.shields.io/badge/Vulpine-vulpinemc.fr-2EA043?style=for-the-badge&logo=minecraft&logoColor=white" alt="Vulpine" />
+  </a>
+</p>
+
+<p align="center">
+  💬 <b>Discord :</b> <code>@notkodaa__</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:7C3AED,100:18181B&height=120&section=footer" alt="Bannière de fin orange et violette" />
+</p>
+
+<p align="center">
+  <b>⚡ Du code, des idées et des projets qui prennent vie.</b>
+</p>
